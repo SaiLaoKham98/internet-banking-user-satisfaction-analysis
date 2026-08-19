@@ -180,8 +180,8 @@ The portfolio includes selected original outputs from:
 
 ### Portfolio Case Study
 
-- [PDF Portfolio](./Internet-Banking-User-Satisfaction-Analysis.pdf)
-
+- [**Download Full Portfolio Case Study (PDF)**](./Internet-Banking-User-Satisfaction-Analysis.pdf)
+> **Note:** If the GitHub PDF preview does not load, click the **Download** button on the PDF file page to view the complete case study.
 
 ---
 
