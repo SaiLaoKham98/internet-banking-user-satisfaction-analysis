@@ -180,7 +180,7 @@ The portfolio includes selected original outputs from:
 
 ### Portfolio Case Study
 
-- [PDF Portfolio](./Internet%20Banking%20User%20Satisfaction%20Analysis%20%E2%80%94%20SPSS%2C%20R%2C%20PCA%20%26%20Regression.pdf)
+- [PDF Portfolio](./Internet-Banking-User-Satisfaction-Analysis.pdf)
 
 
 ---
